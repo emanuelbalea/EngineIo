@@ -1,0 +1,9 @@
+﻿<Properties StartupConfiguration="{25806A43-B02E-42ED-8C5E-30F8112788B7}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EngineIo PreferredExecutionTarget="Android.Nexus 4 (KitKat)" />
+</Properties>
